@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Harry Potter",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "James Potter",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Ron Weasley",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Fred Weasley",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "George Weasley",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Bill Weasley",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Charlie Weasley",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Percy Weasley",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Arthur Weasley",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Molly Weasley",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Hermione Granger",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Neville Longbottom",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Dean Thomas",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Seamus Finnigan",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Lavender Brown",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Cormac McLaggen",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Parvati Patil",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Albus Dumbledore",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Minerva McGonagall",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Remus Lupin",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Sirius Black",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Peter Pettigrew",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Rubeus Hagrid",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Lily Evans",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Colin Creevey",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Dennis Creevey",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Alicia Spinnet",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Angelina Johnson",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Katie Bell",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Oliver Wood",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Lee Jordan",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Demelza Robins",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Romilda Vane",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Sir Nicholas de MoPorpington",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Angelica Cole",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Ben Copper",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Nigel Wolpert",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Ernie Prang",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Jack Sloper",
+    "house": "Gryffindor",
+    "animal": "Lion",
+    "ghost": "Nearly-Headless Nick",
+    "house colors": "Scarlet and Gold",
+    "founder": "Godric Gryffindor"
+  },
+  {
+    "name": "Adelaide Murton",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Adrian Pucey",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Albus Severus Potter",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Alecto Carrow",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Amycus Carrow",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Andromeda Tonks",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Bellatrix Lestrange",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Rodolphus Lestrange",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Blaise Zabini",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Bloody Baron",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Bridget",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Dolores Umbridge",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Felix Rosier",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Flora Carrow",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Hestia Carrow",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Gema Farley",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Horace Slughorn",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Ismelda Murk",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Liz Tuttle",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Marcus Flint",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Merlin",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Merula Snyde",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Millicent Bulstrode",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Pansy Parkinson",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Peter",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Rachel",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Roy",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Salazar Slytherin",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Scabior",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Severus Snape",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Terence Higgs",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Tracey Davis",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Tom Riddle",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Viola Richmond",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Yatin Bhagat",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Yurika Haneda",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Zoe Accrington",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Zubeida Khan",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Lucius Malfoy",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Draco Malfoy",
+    "house": "Slytherin",
+    "animal": "Serpent",
+    "ghost": "Bloody Baron",
+    "house colors": "Green and Silver",
+    "founder": "Salazar Slytherin"
+  },
+  {
+    "name": "Pomona Sprout",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Silvanus Kettleburn",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Newton Scamander",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Nymphadora Tonks",
+    "house": "hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Cedric Diggory",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Ernie Macmillan",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Hannah Abbott",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Justin Finch-Flethley",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Susan Bones",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Zacharias Smith",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Leanne",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Fat Friar",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Bridget",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Wenlock",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Hengist of Woodcroft",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Teddy Lupin",
+    "house": "Hufflepuff",
+    "animal": "Badger",
+    "ghost": "Fat Friar",
+    "house colors": "Yellow and Black",
+    "founder": "Helga Hufflepuff"
+  },
+  {
+    "name": "Luna Lovegood",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Sybill Trelawney",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Marcus Belcy",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Cho Chang",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Myrtle Warren",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Padma Patil",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Terry Boot",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Michael Corner",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Roger Davies",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Anthony Goldstein",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Marietta Edgecombe",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Robert Hilliard",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Uric the Oddball",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Gilderoy Lockhart",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Penelope Clearwater",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Lisa Turpin",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Isobel MacDougal",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Mandy Brocklehurst",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Nanette Desford",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Maria Glossop",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Helena Ravenclaw",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Filius Flitwick",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Millicent Bagnold",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Quirninus Quirrell",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Garrick Ollivander",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Sue Li",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "S. Fawcett",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Ignatia Wildsmith",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Chester Davies",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  },
+  {
+    "name": "Tulip Karasu",
+    "house": "Ravenclaw",
+    "animal": "Eagle",
+    "ghost": "Grey Lady",
+    "house colors": "Blue and Bronze",
+    "founder": "Rowena Ravenclaw"
+  }
+]
